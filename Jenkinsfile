@@ -4,7 +4,7 @@ node('master'){
 
    stage('git checkout'){
 
-                  git 'https://github.com/mythribhay/Inglibrary.git'
+                  git 'https://github.com/GitRep2018/book-lending-system'
 
               }
 
